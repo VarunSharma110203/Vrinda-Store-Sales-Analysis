@@ -23,6 +23,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Created pivot tables according to the questions asked.
 
 ## **Dashboard**
+![Alt text of the image](https://github.com/VarunSharma110203/Vrinda-Store-Sales-Analysis/blob/main/image.png)
+
 
 
 
